@@ -2,6 +2,9 @@
 
 Full setup for Bootstrap 4 (beta) projects. Includes Bootstrap 4 (beta), Font-Awesome, Popper.js, jQuery, Gulp.
 
+## Installation
+npm install 
+
 ## npm Dependency Installation
 
 ### Install bootstrap 4 beta, fontawesome, jquery, popper.js
